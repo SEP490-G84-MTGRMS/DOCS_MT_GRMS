@@ -1,0 +1,9 @@
+# Bỏ qua 2 repository con vì chúng có Git độc lập
+MT_GRMS_BACKEND/
+MT_GRMS_FRONTEND/
+
+# Bỏ qua file rác hệ thống & IDE
+.vs/
+.vscode/
+*.user
+Thumbs.db
